@@ -1,4 +1,4 @@
-# AI Adaptive Tutorial Agent Demo
+# AI Adaptive Tutorial Agent
 
 An interactive Streamlit demonstration showcasing an AI-powered adaptive learning system that uses reinforcement learning to personalize educational content delivery. The system combines multiple AI techniques including REINFORCE policy gradient methods and Thompson Sampling to create an intelligent tutoring agent that adapts to individual student learning patterns and performance in real-time.
 
